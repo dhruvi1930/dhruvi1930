@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi Coders 👋
+
+#### Welcome to Dhruvi's hut
+
+I'm Dhruvi Lad, a full stack developer. I have one year full time experience 
 
 <!--
 **dhruvi1930/dhruvi1930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
