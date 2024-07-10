@@ -1,8 +1,10 @@
+
+![Untitled_Artwork 2](https://github.com/dhruvi1930/dhruvi1930/assets/112989118/4a2f9502-5927-42f6-b67a-17eccf16770d)
 ## Hi Coders 👋
 
 #### Welcome to Dhruvi's hut
 
-I am Dhruvi Lad, a proficient full-stack developer with a year of dedicated experience working with React.js, Node.js, and TypeScript. Presently, I am employed at Northern Devs, where I am engaged in the maintenance of their administrative portal and customer-facing website.
+Hello, and welcome to my GitHub Pages! My name is Dhruvi Lad, and I am a passionate web application developer based in Kitchener, Ontario. With a keen eye for detail and a dedication to enhancing functionality and code quality, I strive to create seamless, user-friendly web applications.
 
 
 
