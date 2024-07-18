@@ -4,7 +4,7 @@
 
 #### Welcome to Dhruvi's hut
 
-Hello, and welcome to my GitHub Pages! My name is Dhruvi Lad, and I am a passionate web application developer based in Kitchener, Ontario. With a keen eye for detail and a dedication to enhancing functionality and code quality, I strive to create seamless, user-friendly web applications.
+Hello, and welcome to my GitHub Pages! My name is Dhruvi Lad, and I am a passionate web application developer. With a keen eye for detail and a dedication to enhancing functionality and code quality, I strive to create seamless, user-friendly web applications.
 
 
 
