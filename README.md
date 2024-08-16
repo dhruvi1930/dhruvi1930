@@ -26,7 +26,3 @@ When I'm not immersed in code, I find joy in **painting**, **gardening**, and ex
 
 ### 🤝 **Let's Collaborate!**
 I'm always excited about collaborating on new projects, especially those that challenge the status quo and push the boundaries of what's possible. If you're looking for a developer who's passionate, dedicated, and ready to bring your ideas to life, let's connect!
-
----
-
-Feel free to use and modify this `README.md` file for your GitHub profile. It covers your key projects, skills, and personal interests, making your profile stand out to potential collaborators and employers.
